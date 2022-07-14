@@ -1,2 +1,2 @@
 # git-practice
-git 연습용
+git GUI 연습용
